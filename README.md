@@ -43,7 +43,7 @@ app.py   # Main script
 Run the script:
 
 ```bash
-python calculator.py
+python app.py
 ```
 
 Example:

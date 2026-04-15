@@ -1,0 +1,27 @@
+# 🔹 Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual environment
+venv/
+.env/
+.env.*
+
+# 🔹 VS Code / IDE
+.vscode/
+.idea/
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs (useful if you add logging later)
+*.log
+
+# 🔹 SQLite database (if you add later)
+*.db
+
+# 🔹 Temporary files
+*.tmp
+*.swp
